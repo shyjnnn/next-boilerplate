@@ -27,6 +27,8 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": ["warn", { "extensions": [".ts", ".tsx"] }],
     "no-useless-catch": "off",
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": "error",
     "@typescript-eslint/camelcase": "off",
     "no-console": "error",
     "prettier/prettier": [
